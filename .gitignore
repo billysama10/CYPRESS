@@ -1,0 +1,13 @@
+# Dépendances (trop lourd pour GitHub)
+node_modules/
+
+# Rapports de tests (générés à chaque fois)
+cypress/screenshots/
+cypress/videos/
+
+# Fichiers système et logs
+.DS_Store
+npm-debug.log*
+
+# Environnement (pour vos futurs mots de passe secrets)
+.env
